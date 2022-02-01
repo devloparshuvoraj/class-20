@@ -1,0 +1,12 @@
+.main-header{
+    background: #d2e3fc;
+}
+img{
+    max-width: 100%;
+}
+.breadcrumb-items ol{
+    background: #eeee!important;
+}
+.progress-items .progress{
+    margin-bottom: 10px;
+}
